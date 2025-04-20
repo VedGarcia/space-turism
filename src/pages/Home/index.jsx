@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <section className="w-full min-h-screen bg-[url(src/assets/img/home/background-home-mobile.jpg)] bg-cover bg-center grid grid-cols-4 grid-rows-10 gap-2 p-6 ">
+    <section className="w-full min-h-screen bg-[url(src/assets/img/home/background-home-mobile.jpg)] bg-cover bg-center grid grid-cols-4 grid-rows-10 gap-2 p-6 pt-16">
       <div className="col-span-4 flex flex-col-reverse text-center">
         <span className="uppercase font-baloo font-light tracking-[.2em] text-sky-100/80 text-lg">
           So, you want to travel to
